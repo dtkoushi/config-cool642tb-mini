@@ -31,6 +31,11 @@
             bindings = <&mkp MB2>;
             key-positions = <19 20>;
         };
+
+        LANG1combo {
+            bindings = <&kp LANG1>;
+            key-positions = <12 11>;
+        };
     };
 
     behaviors {
